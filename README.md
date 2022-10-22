@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jandor42, AKA Jandor or Jandoria
+- 👀 I’m interested in decentralization, Open Source, Decentraland.
+- 🌱 I’m currently learning C in the 42 cursus when I have some free time from my job at Crypto Birds where I'm a fullstack developer, I use JavaScript.
+- 💞️ I’m looking to collaborate on ... something interesting?
+- 📫 You can reach me on Twitter @jandoria, on Discord Jandoria#0675, my 42 Intra username is alejanma.
